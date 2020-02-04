@@ -1,4 +1,4 @@
-
+</main>
 <!-- Footer -->
 <footer class="pt-5 pb-4" id="contact">
     <div class="container">
@@ -102,7 +102,7 @@
     </div>
 </footer>
 <!-- Copyright -->
-<section class="copyright">
+<aside class="copyright">
     <div class="container">
         <div class="row">
             <div class="col-md-12 ">
@@ -112,7 +112,7 @@
             </div>
         </div>
     </div>
-</section>
+</aside>
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
