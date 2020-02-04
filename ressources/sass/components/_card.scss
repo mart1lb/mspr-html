@@ -1,0 +1,13 @@
+.npcard {
+  border: 0;
+  background: $bg-body;
+  color: #75bce5;
+  box-shadow: $shadow-dark;
+  border-radius: 5px;
+  padding: .4rem 1rem;
+  transition: all .3s cubic-bezier(0.23, 1, 0.32, 1);
+
+  &:hover {
+    box-shadow: $shadow-dark-hover;
+  }
+}
