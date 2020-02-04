@@ -16,22 +16,22 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav mx-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Accueil<span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="index.php">Accueil<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Le Concept</a>
+                    <a class="nav-link" href="concept.php">Le Concept</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="jeux.html">Jeux</a>
+                    <a class="nav-link" href="jeux.php">Jeux</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">La carte</a>
+                    <a class="nav-link" href="carte.php">La carte</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Evénement</a>
+                    <a class="nav-link" href="evenement.php">Evénement</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="contact.php">Contact</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
@@ -41,12 +41,6 @@
 
     </nav>
 </header>
-
-
-
-
-
-
 
 
 
