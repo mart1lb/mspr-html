@@ -24,7 +24,7 @@
                     <a class="nav-link" href="#">Le Concept</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Jeux</a>
+                    <a class="nav-link" href="jeux.html">Jeux</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">La carte</a>
