@@ -6,12 +6,13 @@
     </div>
 </section>
 
-<section id="jumbotron">
+<section id="jumbotron" class="npcard card-body">
     <div class="container">
-        <h2>Le bar</h2>
-        <p>Notre est bar à pour concept un e-sport, c’est à dire un bar comme les autres ou vous pouvez vous
+        <h2 class="display-4">Le bar</h2>
+        <p class="lead">Notre est bar à pour concept un e-sport, c’est à dire un bar comme les autres ou vous pouvez vous
             posez, se détendre, boire un verre, être avec ses amis mais aussi s’amuser. Dans une ambiance
             rétro gaming.</p>
+        <hr class="my-4">
         <img src="public/images/bar/terrasse.jpeg" alt="salle bar " title="salle de bar">
     </div>
 </section>
