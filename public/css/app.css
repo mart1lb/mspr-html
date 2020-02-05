@@ -108,6 +108,58 @@ footer .input-group-addon {
   z-index: 10;
 }
 
+#contact-info span {
+  margin: 15px;
+  margin-bottom: 300px;
+  margin-top: 600px;
+  padding: 5px;
+  font-size: 25px;
+  margin-left: 30px;
+}
+#contact-info i {
+  font-size: 30px;
+}
+
+#page-title h1 {
+  text-align: center;
+  justify-content: center;
+  color: #00FF99;
+}
+
+#game-jumbotron {
+  margin-top: 100px;
+}
+#game-jumbotron h2 {
+  color: #034ABC;
+  font-size: 80px;
+  text-align: center;
+  justify-content: center;
+  font-family: "Noto Sans Gothic";
+}
+#game-jumbotron p {
+  margin-top: 75px;
+  color: #cccccc;
+  font-family: "American Typewriter";
+  margin-botton: 300px;
+}
+
+#borne-jumbotron {
+  margin-top: 100px;
+}
+#borne-jumbotron h2 {
+  color: #034ABC;
+  font-size: 80px;
+  text-align: center;
+  justify-content: center;
+  font-family: "Noto Sans Gothic";
+}
+#borne-jumbotron p {
+  margin-top: 75px;
+  color: #cccccc;
+  font-family: "American Typewriter";
+  margin-botton: 300px;
+}
+
 .npcard {
   border: 0;
   background: #2b3038;
@@ -119,5 +171,19 @@ footer .input-group-addon {
 }
 .npcard:hover {
   box-shadow: 0px 0px 0px 0px rgba(30, 35, 43, 0.8), 0px 0px 0px 0px rgba(43, 48, 56, 0.8), inset 6px 6px 16px 0px rgba(30, 35, 43, 0.8), inset -6px -6px 16px 0px rgba(43, 48, 56, 0.8);
+}
+
+#contact-form {
+  marginp: 0px;
+  margin-top: 100px;
+  margin-bottom: 175px;
+}
+#contact-form .form-group {
+  color: #cccccc;
+  margin-bottom: 50px;
+}
+#contact-form .btn {
+  background-color: #00FF99;
+  border-color: #00FF99;
 }
 /*# sourceMappingURL=app.css.map */

@@ -1,8 +1,8 @@
 <?php include_once 'includes/header.php'; ?>
 
-<section id="page-title">
+<section id="page-title" class="py-5 text-light">
     <div class="container">
-        <h1>Le concept</h1>
+        <h1><strong>Le concept</strong></h1>
     </div>
 </section>
 
@@ -21,7 +21,7 @@
     <div class="container">
         <h2>Salle détente</h2>
         <p>Nous avons une première salle, où vous retrouverez le bar ( cocktails, boissons ect , des tables,
-            tabourets, chaises et canapés avec de la musique en fond un endroit qu’on viviable. </p>
+            tabourets, chaises et canapés avec de la musique en fond un endroit conviviale. </p>
         <img src="public/images/bar/barjeux.jpeg" alt="salle détente " title="salle de détente">
         <img src="public/images/bar/toilette.jpeg" alt="salle jeux " title="salle de jeux">
     </div>
