@@ -1,13 +1,13 @@
 <?php include_once 'includes/header.php'; ?>
 
     <section id="page-title" class="py-5 text-light">
-        <div class="container">
+        <div class="container mt-5">
             <h1><strong>Les jeux</strong></h1>
         </div>
     </section>
 
     <section id="game-jumbotron">
-        <div class="container">
+        <div class="container ">
             <h2>Les consoles</h2>
             <p>Nous avons mis à votre disposition 4 consoles de jeux de différentes époques pour que vous découvriez le
                 plaisir des anciennes consoles de jeux: La première console que nous avons à mis à votre disposition est

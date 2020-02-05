@@ -1,48 +1,32 @@
 <?php include_once 'includes/header.php'; ?>
 
     <section id="home-jumbotron" style="background-image: url(public/images/homepage/bannière.png);">
-        <div class="container">
-
-
-
+        <div class="container mb-3">
         </div>
     </section>
 
-    <section class="p-5">
-        <div class="container">
+    <div class="container npcard  p-5 marketing mx-auto m-5">
 
-                <div class="card npcard mb-5 box-shadow">
-                    <div class="card-header">
-                        <h4 class="my-0 font-weight-normal">Leagues of Legends Tournament</h4>
-                    </div>
-                    <div class="card-body">
-                        <h1 class="card-title pricing-card-title">5€ <small class="text-muted">/ Pers</small></h1>
-                        <ul class="list-unstyled mt-3 mb-4">
-                            <li>Première conso offerte</li>
-                            <li>Réduction sur tout les snacks</li>
-                            <li>Lot à Gagner pour le top 3</li>
-                            <li>Ambiance garantie</li>
-                        </ul>
-                        <button type="button" class="btn btn-lg btn-block btn-outline-primary">S'inscrire</button>
-                    </div>
-                </div>
+        <!-- Three columns of text below the carousel -->
+        <div class="row">
+            <div class="col-lg-4">
+                <img class="rounded" src="public/images/homepage/mannette.png" alt="Generic placeholder image" width="140" height="140">
+                <h2>Du Gaming!</h2>
+                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+                <p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
+            </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <img class="rounded" src="public/images/homepage/beer.png" alt="Generic placeholder image" width="140" height="140">
+                <h2>Des Boissons!</h2>
+                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+                <p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
+            </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <img class="rounded-circle" src="public/images/homepage/friends.png" alt="Generic placeholder image" width="140" height="140">
+                <h2>Des Potes!</h2>
+                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                <p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
+            </div><!-- /.col-lg-4 -->
+        </div><!-- /.row -->
 
-                <div class="card npcard mb-5 box-shadow">
-                    <div class="card-header">
-                        <h4 class="my-0 font-weight-normal">Leagues of Legends Tournament</h4>
-                    </div>
-                    <div class="card-body">
-                        <h1 class="card-title pricing-card-title">5€ <small class="text-muted">/ Pers</small></h1>
-                        <ul class="list-unstyled mt-3 mb-4">
-                            <li>Première conso offerte</li>
-                            <li>Réduction sur tout les snacks</li>
-                            <li>Lot à Gagner pour le top 3</li>
-                            <li>Ambiance garantie</li>
-                        </ul>
-                        <button type="button" class="btn btn-lg btn-block btn-outline-primary">S'inscrire</button>
-                    </div>
-                </div>
-
-        </div>
-    </section>
 <?php include_once 'includes/footer.php'; ?>
