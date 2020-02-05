@@ -1,39 +1,88 @@
 #game-jumbotron {
-  margin-top: 100px;
+  margin-top: 120px;
 
   h2 {
     color: #034ABC;
     font-size: 80px;
     text-align: center;
     justify-content: center;
-    font-family: "Noto Sans Gothic";
+    font-family: 'Muli', sans-serif;
+    font-family: 'Orbitron', sans-serif;
 
   }
+
+  p {
+    margin-top: 120px;
+    color: #cccccc;
+    font-family: "American Typewriter";
+    margin-botton: 300px;
+    font-size: 20px;
+  }
+
+  img {
+    max-width: 300px;
+  }
+
+}
+
+
+#borne-jumbotron {
+  margin-top: 100px;
+
+}
+
+h2 {
+  color: #034ABC;
+  font-size: 80px;
+  text-align: center;
+  justify-content: center;
+  font-family: 'Muli', sans-serif;
+  font-family: 'Orbitron', sans-serif;
+
+}
+
+p {
+  margin-top: 75px;
+  color: #cccccc;
+  font-family: "American Typewriter";
+  margin-botton: 300px;
+  font-size: 20px;
+}
+
+.arcade {
+  img {
+    height: auto;
+    width: 100%;
+  }
+
+  .machine {
+    img {
+      height: auto;
+      width: 100%;
+    }
+  }
+
+  #gameboy-jumbotron {
+    margin-top: 100px;
+
+    h2 {
+      color: #034ABC;
+      font-size: 80px;
+      text-align: center;
+      justify-content: center;
+      font-family: 'Muli', sans-serif;
+      font-family: 'Orbitron', sans-serif;
+
+    }
+
     p {
       margin-top: 75px;
       color: #cccccc;
       font-family: "American Typewriter";
       margin-botton: 300px;
+      font-size: 20px;
     }
-
+  }
 }
 
-#borne-jumbotron {
-  margin-top: 100px;
 
-  h2 {
-    color: #034ABC;
-    font-size: 80px;
-    text-align: center;
-    justify-content: center;
-    font-family: "Noto Sans Gothic";
-
-  }
-  p {
-    margin-top: 75px;
-    color: #cccccc;
-    font-family: "American Typewriter";
-    margin-botton: 300px;
-  }
-
-}

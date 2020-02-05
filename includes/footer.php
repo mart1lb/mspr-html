@@ -5,14 +5,14 @@
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-4">
                 <h5 class="mb-4 font-weight-bold">ABOUT US</h5>
-                <p class="mb-4">Etiam laoreet in ex quis efficitur.</p>
+                <p class="mb-4">Bar e-sport Game club</p>
                 <ul class="f-address">
                     <li>
                         <div class="row">
                             <div class="col-1"><i class="fas fa-map-marker"></i></div>
                             <div class="col-10">
                                 <h6 class="font-weight-bold mb-0">Address:</h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <p>7 Rue Henri de Gaulle, 44000 Nantes</p>
                             </div>
                         </div>
                     </li>
@@ -21,7 +21,7 @@
                             <div class="col-1"><i class="far fa-envelope"></i></div>
                             <div class="col-10">
                                 <h6 class="font-weight-bold mb-0">Have any questions?</h6>
-                                <p><a href="#">Support@userthemes.com</a></p>
+                                <p><a href="#">Gameclub@gmail.com</a></p>
                             </div>
                         </div>
                     </li>
@@ -30,7 +30,7 @@
                             <div class="col-1"><i class="fas fa-phone-volume"></i></div>
                             <div class="col-10">
                                 <h6 class="font-weight-bold mb-0">Address:</h6>
-                                <p><a href="#">+XX (0) XX XX-XXXX-XXXX</a></p>
+                                <p><a href="#">09.88.55.67.42</a></p>
                             </div>
                         </div>
                     </li>

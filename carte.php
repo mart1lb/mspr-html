@@ -75,7 +75,7 @@
                 </div>
             </div>
             <div class="card npcard">
-                <img class="card-img-top" src="public/images/carte/TequilaLime.png" alt="Card image cap">
+                <img class="card-img-top" src="public/images/carte/Tequilalime.png" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Tequila Lime</h5>
                     <p class="card-text">Composition: Limonade, vin mousseux, Sirop d'orange, Sucre</p>
@@ -89,34 +89,5 @@
 </section>
 
 
-    <!--
-
-
-    <section>
-        <div
-        ="container">
-        <img src="public/images/carte/Genieen.png" alt="genieen" title="cocktail genieen">
-        <h3>Genieen</h3>
-        <p>Composition: Vodka, Curaçao bleu, Jus de citron</p>
-        </div>
-    </section>
-
-    <section>
-        <div
-        ="container">
-        <img src="public/images/carte/Feierabend.png" alt="feierabend" title="cocktail feierabend">
-        <h3>Feierabend</h3>
-        <p>Composition: Rhum brun, Jus de citron, Jus d'orange, Sirop de Grenadine</p>
-        </div>
-    </section>
-
-    <section>
-        <div
-        ="container">
-        <img src="public/images/carte/TequilaLime.png" alt="tequilalime" title="cocktail tequilalime">
-        <h3>Tequila Lime</h3>
-        <p>Composition: Limonade, vin mousseux, Sirop d'orange, Sucre...</p>
-        </div>
-    </section>
 
 <?php include_once 'includes/footer.php'; ?>
