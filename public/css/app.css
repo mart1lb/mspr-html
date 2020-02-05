@@ -1,6 +1,15 @@
 body {
+  position: relative;
   background-color: #2b3038;
   z-index: 2;
+}
+
+#header {
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  position: fixed;
+  width: 100%;
+  z-index: 10000;
 }
 
 footer {
@@ -106,6 +115,9 @@ footer .input-group-addon {
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 10;
+  display: flex;
+  width: 100%;
+  justify-content: center;
 }
 
 #contact-info span {

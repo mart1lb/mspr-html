@@ -11,8 +11,8 @@
 
 <body>
 
-<header id="navbar" class="sticky-top" >
-    <nav class="navbar bg-transparent navbar-expand-lg navbar-dark" style="backdrop-filter: blur(100px)">
+<header id="header">
+    <nav class="navbar bg-transparent navbar-expand-lg navbar-dark">
 
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav mx-auto">

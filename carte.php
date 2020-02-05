@@ -1,20 +1,20 @@
 <?php include_once 'includes/header.php'; ?>
 
     <section id="page-title" class="py-5 text-light">
-        <div class="container">
+        <div class="container mt-5">
             <h1><strong>La carte</strong></h1>
         </div>
     </section>
 
     <section id="jumbotron">
-        <div class="container">
+        <div class="container mb-5">
             <h2>Nos cocktails</h2>
             <p>Voici nos différents cocktails que vous pourrez retrouver au sein de notre bar e-sport</p>
         </div>
     </section>
 
 <section>
-<div class="container">
+<div class="container mb-5">
     <div class="card-deck">
         <div class="card npcard">
             <img class="card-img-top" src="public/images/carte/borabora.png" alt="Card image cap">
@@ -52,7 +52,7 @@
 
 
 <section>
-    <div class="container">
+    <div class="container mb-5">
         <div class="card-deck">
             <div class="card npcard">
                 <img class="card-img-top" src="public/images/carte/Genieen.png" alt="Card image cap">
