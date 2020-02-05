@@ -13,32 +13,84 @@
         </div>
     </section>
 
-    <section>
-        <div
-        ="container">
-        <img src="public/images/carte/borabora.png" alt="borabora" title="cocktail borabora">
-        <h3>Borabora</h3>
-        <p>Composition: Jus d'ananas, Jus de fruit de la passion, Jus de citron, Grenadine</p>
+<section>
+<div class="container">
+    <div class="card-deck">
+        <div class="card npcard">
+            <img class="card-img-top" src="public/images/carte/borabora.png" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">Bora-bora</h5>
+                <p class="card-text">Composition: Jus d'ananas, Jus de fruit de la passion, Jus de citron, Grenadine</p>
+            </div>
+            <div class="card-footer">
+                <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
         </div>
-    </section>
+        <div class="card npcard">
+            <img class="card-img-top" src="public/images/carte/cocktails.png" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">Mojito</h5>
+                <p class="card-text">Composition: Rhum, Jus de citron vert, Menthe, Eau gazeuse, Sucre de canne</p>
+            </div>
+            <div class="card-footer">
+                <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
+        </div>
+        <div class="card npcard">
+            <img class="card-img-top" src="public/images/carte/Figdark.png" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">Figdrak</h5>
+                <p class="card-text">Composition: Tequila, Jus d'orange, Sirop de Grenadine</p>
+            </div>
+            <div class="card-footer">
+                <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
 
-    <section>
-        <div
-        ="container">
-        <img src="public/images/carte/cocktails.png" alt="morijito" title="cocktail morijito">
-        <h3>Morijito</h3>
-        <p>Composition: Rhum, Jus de citron vert, Menthe, Eau gazeuse, Sucre de canne</p>
-        </div>
-    </section>
 
-    <section>
-        <div
-        ="container">
-        <img src="public/images/carte/Figdark.png" alt="figdark" title="cocktail figdrak">
-        <h3>Figdrak</h3>
-        <p>Composition: Tequila, Jus d'orange, Sirop de Grenadine</p>
+<section>
+    <div class="container">
+        <div class="card-deck">
+            <div class="card npcard">
+                <img class="card-img-top" src="public/images/carte/Genieen.png" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Genieen</h5>
+                    <p class="card-text">Composition: Vodka, Curaçao bleu, Jus de citron</p>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">Last updated 3 mins ago</small>
+                </div>
+            </div>
+            <div class="card npcard">
+                <img class="card-img-top" src="public/images/carte/Feierabend.png" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Feierabend</h5>
+                    <p class="card-text">Composition: Rhum brun, Jus de citron, Jus d'orange, Sirop de Grenadine</p>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">Last updated 3 mins ago</small>
+                </div>
+            </div>
+            <div class="card npcard">
+                <img class="card-img-top" src="public/images/carte/TequilaLime.png" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Tequila Lime</h5>
+                    <p class="card-text">Composition: Limonade, vin mousseux, Sirop d'orange, Sucre</p>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">Last updated 3 mins ago</small>
+                </div>
+            </div>
         </div>
-    </section>
+    </div>
+</section>
+
+
+    <!--
+
 
     <section>
         <div
