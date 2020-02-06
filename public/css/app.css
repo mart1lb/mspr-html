@@ -139,6 +139,9 @@ footer .input-group-addon {
   text-align: center;
   justify-content: center;
   color: #00FF99;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-size: 50px;
 }
 
 #contact-info .contact-picto {
@@ -150,6 +153,7 @@ footer .input-group-addon {
   justify-content: center;
   align-items: center;
   align-content: center;
+  margin-bottom: 100px;
 }
 #contact-info .contact-picto i {
   color: #fff;
@@ -182,7 +186,7 @@ footer .input-group-addon {
 #game-jumbotron p {
   color: #111111;
   font-family: "Economica", sans-serif;
-  margin-bottom: 200px;
+  margin-bottom: 100px;
   font-size: 20px;
   margin-top: 100px;
 }
@@ -191,7 +195,7 @@ footer .input-group-addon {
 }
 
 #borne-jumbotron {
-  margin-top: 300px;
+  margin-top: 150px;
 }
 #borne-jumbotron h2 {
   color: #034ABC;
@@ -199,17 +203,17 @@ footer .input-group-addon {
   text-align: center;
   justify-content: center;
   font-family: "Orbitron", sans-serif;
-  padding-bottom: 200px;
+  padding-bottom: 120px;
 }
 #borne-jumbotron p {
   color: #111111;
   font-family: "Economica", sans-serif;
-  margin-botton: 300px;
+  margin-bottom: 100px;
   font-size: 20px;
 }
 #borne-jumbotron .card-deck {
-  margin-top: 200px;
-  padding-bottom: 120px;
+  margin-top: 80px;
+  margin-bottom: 90px;
 }
 
 .arcade img {
@@ -224,7 +228,7 @@ footer .input-group-addon {
 }
 
 #gameboy-jumbotron {
-  margin-top: 100px;
+  margin-top: 150px;
 }
 #gameboy-jumbotron h2 {
   color: #034ABC;
@@ -232,17 +236,17 @@ footer .input-group-addon {
   text-align: center;
   justify-content: center;
   font-family: "Orbitron", sans-serif;
-  padding-bottom: 200px;
+  padding-bottom: 100px;
 }
 #gameboy-jumbotron p {
   color: #111111;
   font-family: "Economica", sans-serif;
-  margin-botton: 300px;
+  margin-botton: 80px;
   font-size: 20px;
 }
 #gameboy-jumbotron .card-deck {
-  margin-top: 200px;
-  padding-bottom: 300px;
+  margin-top: 100px;
+  padding-bottom: 100px;
 }
 
 #bannerjeux {
@@ -250,6 +254,16 @@ footer .input-group-addon {
   display: block;
   max-width: 100%;
   margin: auto;
+}
+
+#date p {
+  color: #3a5a95;
+  font-size: 40px;
+  margin-top: 15px;
+}
+
+#card .card-deck {
+  padding-bottom: 100px;
 }
 
 #concept {
@@ -272,7 +286,7 @@ footer .input-group-addon {
 }
 
 #text p {
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
 
 .npcard {

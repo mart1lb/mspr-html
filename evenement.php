@@ -15,13 +15,13 @@
     </section>
 
 <section>
-    <div class="container ">
+    <div class="container" id="date">
         <div class="card-deck mb-3 text-center">
             <div class="card  npcard mb-4 box-shadow">
                 <div class="card-header">
                     <h2 class="my-0 font-weight-normal">Leagues of Legends Tournament</h2>
                 </div>
-                <p>20 Juin</p>
+                <p><strong>20 Juin</strong></p>
                 <div class="card-body">
                     <h3 class="card-title pricing-card-title">5€ <small class="text-muted">/ Pers</small></h3>
                     <ul class="list-unstyled mt-3 mb-4">
@@ -35,13 +35,13 @@
 </section>
 
     <section>
-        <div class="container ">
+        <div class="container" id="date">
             <div class="card-deck mb-3 text-center">
                 <div class="card  npcard mb-4 box-shadow">
                     <div class="card-header">
                         <h2 class="my-0 font-weight-normal">Fortnite</h2>
                     </div>
-                    <p>10 Juillet</p>
+                    <p><strong>10 Juillet</strong></p>
                     <div class="card-body">
                         <h3 class="card-title pricing-card-title">10€ <small class="text-muted">/ Pers</small></h3>
                         <ul class="list-unstyled mt-3 mb-4">
@@ -55,14 +55,14 @@
                 </div>
     </section>
 
-    <section>
-        <div class="container ">
+    <section id="card">
+        <div class="container" id="date">
             <div class="card-deck mb-3 text-center">
                 <div class="card  npcard mb-4 box-shadow">
                     <div class="card-header">
                         <h2 class="my-0 font-weight-normal">FIFA</h2>
                     </div>
-                    <p>27 Aout</p>
+                    <p><strong>27 Aout</strong></p>
                     <div class="card-body">
                         <h3 class="card-title pricing-card-title">5€ <small class="text-muted">/ Pers</small></h3>
                         <ul class="list-unstyled mt-3 mb-4">

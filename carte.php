@@ -23,7 +23,7 @@
                 <p class="card-text">Composition: Jus d'ananas, Jus de fruit de la passion, Jus de citron, Grenadine</p>
             </div>
             <div class="card-footer">
-                <small class="text-muted">Last updated 3 mins ago</small>
+                <small class="text-muted">Your drink in 3 min</small>
             </div>
         </div>
         <div class="card scard">
@@ -33,7 +33,7 @@
                 <p class="card-text">Composition: Rhum, Jus de citron vert, Menthe, Eau gazeuse, Sucre de canne</p>
             </div>
             <div class="card-footer">
-                <small class="text-muted">Last updated 3 mins ago</small>
+                <small class="text-muted">Your drink in 3 min</small>
             </div>
         </div>
         <div class="card scard">
@@ -43,7 +43,7 @@
                 <p class="card-text">Composition: Tequila, Jus d'orange, Sirop de Grenadine</p>
             </div>
             <div class="card-footer">
-                <small class="text-muted">Last updated 3 mins ago</small>
+                <small class="text-muted">Your drink in 3 min</small>
             </div>
         </div>
     </div>
@@ -51,7 +51,7 @@
 </section>
 
 
-<section>
+<section id="card">
     <div class="container mb-5">
         <div class="card-deck">
             <div class="card scard">
@@ -61,7 +61,7 @@
                     <p class="card-text">Composition: Vodka, Curaçao bleu, Jus de citron</p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">Your drink in 3 min</small>
                 </div>
             </div>
             <div class="card scard">
@@ -71,7 +71,7 @@
                     <p class="card-text">Composition: Rhum brun, Jus de citron, Jus d'orange, Sirop de Grenadine</p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">Your drink in 3 min</small>
                 </div>
             </div>
             <div class="card scard">
@@ -81,7 +81,7 @@
                     <p class="card-text">Composition: Limonade, vin mousseux, Sirop d'orange, Sucre</p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">Your drink in 3 min</small>
                 </div>
             </div>
         </div>
