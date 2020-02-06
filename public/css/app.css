@@ -227,7 +227,7 @@ p {
   border: 0;
   background: #ffffff;
   color: #75bce5;
-  box-shadow: 6px 6px 16px 0px rgba(30, 35, 43, 0.8), -6px -6px 16px 0px rgba(43, 48, 56, 0.8), inset 0px 0px 0px 0px #1e232b, inset 0px 0px 0px 0px rgba(43, 48, 56, 0.8);
+  box-shadow: 6px 6px 16px 0px #dde4ef, -6px -6px 16px 0px #fff, inset 0px 0px 0px 0px #dde4ef, inset 0px 0px 0px 0px #fff;
   border-radius: 5px;
   padding: 0.4rem 1rem;
   transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
