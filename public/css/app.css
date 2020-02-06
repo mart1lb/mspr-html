@@ -154,7 +154,7 @@ footer .input-group-addon {
 }
 
 #game-jumbotron {
-  margin-top: 120px;
+  margin-top: 300px;
 }
 #game-jumbotron h2 {
   color: #034ABC;
@@ -164,15 +164,18 @@ footer .input-group-addon {
   font-family: "Orbitron", sans-serif;
 }
 #game-jumbotron p {
-  margin-top: 120px;
+  margin-top: 200px;
   color: #111111;
   font-family: "Economica", sans-serif;
   margin-botton: 300px;
   font-size: 20px;
 }
+#game-jumbotron .card-deck {
+  margin-top: 220px;
+}
 
 #borne-jumbotron {
-  margin-top: 100px;
+  margin-top: 300px;
 }
 #borne-jumbotron h2 {
   color: #034ABC;
@@ -182,11 +185,15 @@ footer .input-group-addon {
   font-family: "Orbitron", sans-serif;
 }
 #borne-jumbotron p {
-  margin-top: 75px;
+  margin-top: 200px;
   color: #111111;
   font-family: "Economica", sans-serif;
   margin-botton: 300px;
   font-size: 20px;
+}
+#borne-jumbotron .card-deck {
+  margin-top: 200px;
+  padding-bottom: 120px;
 }
 
 .arcade img {
@@ -210,11 +217,15 @@ footer .input-group-addon {
   font-family: "Orbitron", sans-serif;
 }
 #gameboy-jumbotron p {
-  margin-top: 75px;
+  margin-top: 200px;
   color: #111111;
   font-family: "Economica", sans-serif;
   margin-botton: 300px;
   font-size: 20px;
+}
+#gameboy-jumbotron .card-deck {
+  margin-top: 200px;
+  padding-bottom: 300px;
 }
 
 #bannerjeux {
