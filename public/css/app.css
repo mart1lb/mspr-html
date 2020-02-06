@@ -161,13 +161,12 @@ footer .input-group-addon {
   font-size: 80px;
   text-align: center;
   justify-content: center;
-  font-family: "Muli", sans-serif;
   font-family: "Orbitron", sans-serif;
 }
 #game-jumbotron p {
   margin-top: 120px;
   color: #111111;
-  font-family: "American Typewriter";
+  font-family: "Economica", sans-serif;
   margin-botton: 300px;
   font-size: 20px;
 }
@@ -180,13 +179,12 @@ footer .input-group-addon {
   font-size: 80px;
   text-align: center;
   justify-content: center;
-  font-family: "Muli", sans-serif;
   font-family: "Orbitron", sans-serif;
 }
 #borne-jumbotron p {
   margin-top: 75px;
   color: #111111;
-  font-family: "American Typewriter";
+  font-family: "Economica", sans-serif;
   margin-botton: 300px;
   font-size: 20px;
 }
@@ -209,15 +207,21 @@ footer .input-group-addon {
   font-size: 80px;
   text-align: center;
   justify-content: center;
-  font-family: "Muli", sans-serif;
   font-family: "Orbitron", sans-serif;
 }
 #gameboy-jumbotron p {
   margin-top: 75px;
   color: #111111;
-  font-family: "American Typewriter";
+  font-family: "Economica", sans-serif;
   margin-botton: 300px;
   font-size: 20px;
+}
+
+#bannerjeux {
+  max-height: 400px;
+  display: block;
+  max-width: 100%;
+  margin: auto;
 }
 
 #conceptheader {

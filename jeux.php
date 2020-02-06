@@ -1,14 +1,14 @@
 <?php include_once 'includes/header.php'; ?>
 
-    <section id="page-title" class="py-5 text-light">
-        <div class="container mt-5">
-            <h1><strong>Les jeux</strong></h1>
+    <section class="pt-5">
+        <div  class="container pt-5 ">
+            <img id="bannerjeux" class="rounded" src="public/images/jeux/retro%20banner.PNG">
         </div>
     </section>
 
-    <section id="game-jumbotron">
-        <div class="container md-5">
-            <h2>Les consoles</h2>
+    <section id="game-jumbotron pt-5">
+        <div class="container pt-5 md-5">
+            <h2 class="pt-5">Les consoles</h2>
             <p>Nous avons mis à votre disposition 4 consoles de jeux de différentes époques pour que vous découvriez le
                 plaisir des anciennes consoles de jeux: La première console que nous avons à mis à votre disposition est
                 la Super Nintendo sortie dans les années 90 par les Japonais mais aussi La super NES 2 qui est la

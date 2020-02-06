@@ -18,7 +18,7 @@
                             ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
                             Praesent commodo cursus magna.</p>
                         <div class="text-center">
-                            <a class="btn btn-secondary" href="#" role="button">View details »</a>
+                            <a class="btn btn-secondary" href="jeux.php" role="button">Les jeux »</a>
                         </div>
                     </div>
                 </div><!-- /.col-lg-4 -->
@@ -32,7 +32,7 @@
                             Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo,
                             tortor mauris condimentum nibh.</p>
                         <div class="text-center">
-                            <a class="btn btn-secondary" href="#" role="button">View details »</a>
+                            <a class="btn btn-secondary" href="carte.php" role="button">Les cocktails »</a>
                         </div>
                     </div>
                 </div><!-- /.col-lg-4 -->
@@ -45,9 +45,9 @@
                         <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum
                             id
                             ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-                            condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                            condimentum nibh,</p>
                         <div class="text-center">
-                            <a class="btn btn-secondary" href="#" role="button">View details »</a>
+                            <a class="btn btn-secondary" href="evenement.php" role="button">Les Events »</a>
                         </div>
                     </div>
                 </div><!-- /.col-lg-4 -->

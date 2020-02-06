@@ -1,8 +1,16 @@
 <?php include_once 'includes/header.php'; ?>
 
-    <section id="page-title" class="py-5 text-light">
-        <div class="container mt-5">
-            <h1><strong>Evénement</strong</h1>
+
+    <section class="pt-5">
+        <div class="container pt-5">
+            <div class="jumbotron p-3 p-md-5 text-white rounded" id="conceptheader" style="background-image: url(public/images/bar/tournoisbanner.gif);)">
+                <div class="col-md-6 px-0">
+                    <div class="card bg-transparent rounded" style="backdrop-filter: blur(2px)">
+                        <h1 class="display-4 font-italic">Liste des Events</h1>
+                        <p class="lead my-3 text-white">Prenez part aux tournois et venez affronter vos amis sur de nombreux jeux, toutes platformes confondu</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
