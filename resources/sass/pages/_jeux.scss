@@ -1,9 +1,8 @@
-
 #game-jumbotron {
-  margin-top: 300px;
+  margin-top: 70px;
 
   h2 {
-    color: #034ABC;
+    color: #0141a2;
     font-size: 80px;
     text-align: center;
     justify-content: center;
@@ -12,14 +11,16 @@
   }
 
   p {
-    margin-top: 200px;
     color: #111111;
     font-family: 'Economica', sans-serif;
-    margin-botton: 300px;
+    margin-bottom: 200px;
     font-size: 20px;
+    margin-top: 100px;
+
   }
+
   .card-deck{
-    margin-top: 220px;
+    margin-top: 150px;
 
   }
 }
@@ -34,11 +35,11 @@
     text-align: center;
     justify-content: center;
     font-family: 'Orbitron', sans-serif;
+    padding-bottom: 200px;
 
   }
 
   p {
-    margin-top: 200px;
     color: #111111;
     font-family: 'Economica', sans-serif;
     margin-botton: 300px;
@@ -54,6 +55,7 @@
     img {
       height: auto;
       width: 100%;
+      max-height: 200px;
     }
   }
 
@@ -73,11 +75,11 @@
       text-align: center;
       justify-content: center;
       font-family: 'Orbitron', sans-serif;
+      padding-bottom: 200px;
 
     }
 
     p {
-      margin-top: 200px;
       color: #111111;
       font-family: 'Economica', sans-serif;
       margin-botton: 300px;

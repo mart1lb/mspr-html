@@ -6,7 +6,7 @@
         </div>
     </section>
 
-    <section id="game-jumbotron pt-5">
+    <section id="game-jumbotron">
         <div class="container pt-5 md-5">
             <h2 class="pt-5">Les consoles</h2>
             <p>Nous avons mis à votre disposition 4 consoles de jeux de différentes époques pour que vous découvriez le

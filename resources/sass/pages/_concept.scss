@@ -1,10 +1,25 @@
-#conceptheader {
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: flex;
-  width: 100%;
-  justify-content: center;
-  object-fit: cover;
+#concept{
+  font-family: 'Economica', sans-serif;
+  font-size: 20px;
 
+  h2{
+    font-size: 50px;
+    font-family: 'Orbitron', sans-serif;
+    margin-top: 80px;
+    margin-bottom: 60px;
+    color: #00FF99;
+  }
+  h3{
+    font-size: 50px;
+    font-family: 'Orbitron', sans-serif;
+    margin-bottom: 60px;
+    margin-top: 80px;
+    color: #00FF99;
+  }
+}
+
+#text{
+  p{
+    margin-bottom: 150px;
+  }
 }

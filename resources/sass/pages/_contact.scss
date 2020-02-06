@@ -1,26 +1,39 @@
-#contact-info {
-
-  span {
-    margin: 15px;
-    margin-bottom: 300px;
-    margin-top: 600px;
-    padding: 5px;
-    font-size: 25px;
-    margin-left: 30px;
-
-
-  }
-
-  i {
-    font-size: 30px;
-  }
-
-
-  }
-
-
-#page-title h1{
+#page-title h1 {
   text-align: center;
   justify-content: center;
-  color: #00FF99;
+  color: $primary;
+}
+
+
+#contact-info {
+
+  .contact-picto {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: $border-radius;
+    box-shadow: $box-shadow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    i {
+      color: #fff;
+      width: 50px;
+      height: 50px;
+      font-size: 30px;
+      background: $primary;
+      display: flex;
+      justify-content: center;
+      align-content: center;
+      align-items: center;
+      border-radius: 50em;
+    }
+
+    span {
+      padding-left: 10px;
+      display: inline-block;
+      width: calc(100% - 50px);
+    }
+  }
 }

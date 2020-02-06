@@ -6,29 +6,34 @@
         </div>
     </section>
 
-    <section id="contact-info" class="py-3 text-light">
-        <div class="container p-5 scard">
-            <!-- Example row of columns -->
+    <section id="contact-info">
+        <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <i class="fas fa-phone-volume"></i>
-                    <span>09.88.55.67.42</span>
+                    <div class="contact-picto">
+                        <i class="fas fa-phone-volume"></i>
+                        <span>09.88.55.67.42</span>
+                    </div>
                 </div>
                 <div class="col-md-4">
-                    <i class="fas fa-envelope-open-text"></i>
-                    <span>Gameclub@gmail.com</span>
+                    <div class="contact-picto">
+                        <i class="fas fa-envelope-open-text"></i>
+                        <span>Gameclub@gmail.com</span>
+                    </div>
                 </div>
                 <div class="col-md-4">
-                    <i class="fas fa-home"></i>
-                    <span>7 Rue Henri de Gaulle, 44000 Nantes</span>
+                    <div class="contact-picto">
+                        <i class="fas fa-home"></i>
+                        <span>7 Rue Henri de Gaulle, 44000 Nantes</span>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
     <section id="contact-form">
-        <div class="container p-5 scard">
-            <form action="" method="POST">
+        <div class="container">
+            <form action="" class="p-5 scard" method="POST">
 
                 <div class="form-row">
                     <div class="col">

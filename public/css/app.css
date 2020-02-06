@@ -135,43 +135,59 @@ footer .input-group-addon {
   margin-top: 20px;
 }
 
-#contact-info span {
-  margin: 15px;
-  margin-bottom: 300px;
-  margin-top: 600px;
-  padding: 5px;
-  font-size: 25px;
-  margin-left: 30px;
-}
-#contact-info i {
-  font-size: 30px;
-}
-
 #page-title h1 {
   text-align: center;
   justify-content: center;
   color: #00FF99;
 }
 
+#contact-info .contact-picto {
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 6px 6px 16px 0px #dde4ef, -6px -6px 16px 0px #fff, inset 0px 0px 0px 0px #dde4ef, inset 0px 0px 0px 0px #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+#contact-info .contact-picto i {
+  color: #fff;
+  width: 50px;
+  height: 50px;
+  font-size: 30px;
+  background: #00FF99;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  border-radius: 50em;
+}
+#contact-info .contact-picto span {
+  padding-left: 10px;
+  display: inline-block;
+  width: calc(100% - 50px);
+}
+
 #game-jumbotron {
-  margin-top: 300px;
+  margin-top: 70px;
 }
 #game-jumbotron h2 {
-  color: #034ABC;
+  color: #0141a2;
   font-size: 80px;
   text-align: center;
   justify-content: center;
   font-family: "Orbitron", sans-serif;
 }
 #game-jumbotron p {
-  margin-top: 200px;
   color: #111111;
   font-family: "Economica", sans-serif;
-  margin-botton: 300px;
+  margin-bottom: 200px;
   font-size: 20px;
+  margin-top: 100px;
 }
 #game-jumbotron .card-deck {
-  margin-top: 220px;
+  margin-top: 150px;
 }
 
 #borne-jumbotron {
@@ -183,9 +199,9 @@ footer .input-group-addon {
   text-align: center;
   justify-content: center;
   font-family: "Orbitron", sans-serif;
+  padding-bottom: 200px;
 }
 #borne-jumbotron p {
-  margin-top: 200px;
   color: #111111;
   font-family: "Economica", sans-serif;
   margin-botton: 300px;
@@ -199,6 +215,7 @@ footer .input-group-addon {
 .arcade img {
   height: auto;
   width: 100%;
+  max-height: 200px;
 }
 
 .machine img {
@@ -215,9 +232,9 @@ footer .input-group-addon {
   text-align: center;
   justify-content: center;
   font-family: "Orbitron", sans-serif;
+  padding-bottom: 200px;
 }
 #gameboy-jumbotron p {
-  margin-top: 200px;
   color: #111111;
   font-family: "Economica", sans-serif;
   margin-botton: 300px;
@@ -235,14 +252,27 @@ footer .input-group-addon {
   margin: auto;
 }
 
-#conceptheader {
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: flex;
-  width: 100%;
-  justify-content: center;
-  object-fit: cover;
+#concept {
+  font-family: "Economica", sans-serif;
+  font-size: 20px;
+}
+#concept h2 {
+  font-size: 50px;
+  font-family: "Orbitron", sans-serif;
+  margin-top: 80px;
+  margin-bottom: 60px;
+  color: #00FF99;
+}
+#concept h3 {
+  font-size: 50px;
+  font-family: "Orbitron", sans-serif;
+  margin-bottom: 60px;
+  margin-top: 80px;
+  color: #00FF99;
+}
+
+#text p {
+  margin-bottom: 150px;
 }
 
 .npcard {

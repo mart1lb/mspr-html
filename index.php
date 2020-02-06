@@ -14,9 +14,9 @@
                         <img class="rounded" src="public/images/homepage/mannette.png" alt="Generic placeholder image"
                              width="140" height="140">
                         <h2>Du Gaming!</h2>
-                        <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh
-                            ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-                            Praesent commodo cursus magna.</p>
+                        <p>Les bars proposant de jouer à des jeux vidéos autour d’une bière ou deux ne sont pas si nouveaux,
+                            nous en convenons !Leur origine est aussi motivée par un bouleversement en termes de consommation :
+                            l’appétence exubérante pour le domaine du rétro-gaming.</p>
                         <div class="text-center">
                             <a class="btn btn-secondary" href="jeux.php" role="button">Les jeux »</a>
                         </div>
@@ -27,10 +27,9 @@
                         <img class="rounded" src="public/images/homepage/beer.png" alt="Generic placeholder image"
                              width="140" height="140">
                         <h2>Des Boissons!</h2>
-                        <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec
-                            elit.
-                            Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo,
-                            tortor mauris condimentum nibh.</p>
+                        <p>DLes barathons, au nombre de verres incalculable sont passés de mode… Mettez de côté votrebonne
+                            descente légendaire,bientôt, pour s’imposer dans ces tavernes nocturnes, vous ne pourrez compter
+                            que sur vos “skills in video games” !</p>
                         <div class="text-center">
                             <a class="btn btn-secondary" href="carte.php" role="button">Les cocktails »</a>
                         </div>
@@ -42,10 +41,9 @@
                              alt="Generic placeholder image"
                              width="140" height="140">
                         <h2>Des Potes!</h2>
-                        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum
-                            id
-                            ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-                            condimentum nibh,</p>
+                        <p>C’est un véritable phénomène culturel trouvant son origine dans une volonté de renouer avec les
+                            sensations des premières expériences en termes de jeux vidéo. Avec vos amis pour déconnecté des smartphones
+                        et de pouvoir se tape de bonne barre entre pote!</p>
                         <div class="text-center">
                             <a class="btn btn-secondary" href="evenement.php" role="button">Les Events »</a>
                         </div>
