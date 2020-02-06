@@ -1,6 +1,6 @@
 <?php include_once 'includes/header.php'; ?>
 
-    <section id="home-jumbotron" style="background-image: url(public/images/homepage/bannière.png);">
+    <section id="home-jumbotron" style="background-image: url(public/images/homepage/homebanner.png);">
         <div class="container mb-3">
         </div>
     </section>

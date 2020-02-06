@@ -3,7 +3,7 @@
 
     <section class="pt-5">
         <div class="container pt-5">
-            <div class="jumbotron p-3 p-md-5 text-white rounded" id="conceptheader" style="background-image: url(public/images/bar/tournoisbanner.gif);)">
+            <div class="jumbotron p-3 p-md-5 text-white rounded" id="conceptheader" style="background-image: url(public/images/homepage/tournoisbanner.gif);)">
                 <div class="col-md-6 px-0">
                     <div class="card bg-transparent rounded" style="backdrop-filter: blur(2px)">
                         <h1 class="display-4 font-italic">Liste des Events</h1>
