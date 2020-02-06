@@ -26,7 +26,7 @@
                 <small class="text-muted">Last updated 3 mins ago</small>
             </div>
         </div>
-        <div class="card npcard">
+        <div class="card scard">
             <img class="card-img-top" src="public/images/carte/cocktails.png" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Mojito</h5>
@@ -36,7 +36,7 @@
                 <small class="text-muted">Last updated 3 mins ago</small>
             </div>
         </div>
-        <div class="card npcard">
+        <div class="card scard">
             <img class="card-img-top" src="public/images/carte/Figdark.png" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Figdrak</h5>
@@ -54,7 +54,7 @@
 <section>
     <div class="container mb-5">
         <div class="card-deck">
-            <div class="card npcard">
+            <div class="card scard">
                 <img class="card-img-top" src="public/images/carte/Genieen.png" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Genieen</h5>
@@ -64,7 +64,7 @@
                     <small class="text-muted">Last updated 3 mins ago</small>
                 </div>
             </div>
-            <div class="card npcard">
+            <div class="card scard">
                 <img class="card-img-top" src="public/images/carte/Feierabend.png" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Feierabend</h5>
@@ -74,7 +74,7 @@
                     <small class="text-muted">Last updated 3 mins ago</small>
                 </div>
             </div>
-            <div class="card npcard">
+            <div class="card scard">
                 <img class="card-img-top" src="public/images/carte/Tequilalime.png" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Tequila Lime</h5>
