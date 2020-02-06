@@ -15,7 +15,19 @@
     </section>
 
 <section>
+<<<<<<< Updated upstream
     <div class="container" id="date">
+=======
+<<<<<<< Updated upstream
+    <div class="container ">
+=======
+<<<<<<< HEAD
+    <div class="container mt-5 ">
+=======
+    <div class="container" id="date">
+>>>>>>> master
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
         <div class="card-deck mb-3 text-center">
             <div class="card  npcard mb-4 box-shadow">
                 <div class="card-header">
@@ -35,7 +47,19 @@
 </section>
 
     <section>
+<<<<<<< Updated upstream
         <div class="container" id="date">
+=======
+<<<<<<< Updated upstream
+        <div class="container ">
+=======
+<<<<<<< HEAD
+        <div class="container mt-5 ">
+=======
+        <div class="container" id="date">
+>>>>>>> master
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
             <div class="card-deck mb-3 text-center">
                 <div class="card  npcard mb-4 box-shadow">
                     <div class="card-header">
@@ -55,8 +79,22 @@
                 </div>
     </section>
 
+<<<<<<< Updated upstream
     <section id="card">
         <div class="container" id="date">
+=======
+<<<<<<< HEAD
+    <section>
+<<<<<<< Updated upstream
+        <div class="container ">
+=======
+        <div class="container mt-5">
+=======
+    <section id="card">
+        <div class="container" id="date">
+>>>>>>> master
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
             <div class="card-deck mb-3 text-center">
                 <div class="card  npcard mb-4 box-shadow">
                     <div class="card-header">
