@@ -43,7 +43,7 @@
                         <div class="row">
                             <div class="col-1"><i class="fab fa-twitter"></i></div>
                             <div class="col-10">
-                                <p class="mb-0"><a href="#">@userthemesrel </a> HTML Version Out Now</p>
+                                <p class="mb-0"><a href="#">@mario44300 </a>Trop cool le bar</p>
                                 <label>10 Mins Ago</label>
                             </div>
                         </div>
@@ -52,7 +52,7 @@
                         <div class="row">
                             <div class="col-1"><i class="fab fa-twitter"></i></div>
                             <div class="col-10">
-                                <p class="mb-0"><a href="#">@userthemesrel </a> HTML Version Out Now</p>
+                                <p class="mb-0"><a href="#">@brigitte </a>J'ai kiff le style du bar et le concept. je reviendrais!!!</p>
                                 <label>10 Mins Ago</label>
                             </div>
                         </div>
@@ -61,7 +61,7 @@
                         <div class="row">
                             <div class="col-1"><i class="fab fa-twitter"></i></div>
                             <div class="col-10">
-                                <p class="mb-0"><a href="#">@userthemesrel </a> HTML Version Out Now</p>
+                                <p class="mb-0"><a href="#">@Hugobg </a>Bar avec une super ambiance et bière pas cher</p>
                                 <label>10 Mins Ago</label>
                             </div>
                         </div>
@@ -72,16 +72,16 @@
                 <h5 class="mb-4 font-weight-bold">LATEST UPDATES</h5>
                 <ul class="recent-post">
                     <li>
-                        <label class="mr-3">28 <br><span>APR</span></label>
-                        <span>Rendomised words which dont look eveable.</span>
+                        <label class="mr-3">20<br><span>JUIN</span></label>
+                        <span>Leagues of Legends Tournament</span>
                     </li>
                     <li>
-                        <label class="mr-3">29 <br><span>APR</span></label>
-                        <span>Rendomised words which dont look eveable.</span>
+                        <label class="mr-3">10<br><span>JUILLET</span></label>
+                        <span>Fornite</span>
                     </li>
                     <li>
-                        <label class="mr-3">30 <br><span>APR</span></label>
-                        <span>Rendomised words which dont look eveable.</span>
+                        <label class="mr-3">27<br><span>AOUT</span></label>
+                        <span>FIFA</span>
                     </li>
                 </ul>
             </div>
