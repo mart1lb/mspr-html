@@ -1,6 +1,6 @@
 body {
   position: relative;
-  background-color: #2b3038;
+  background-color: #ffffff;
   z-index: 2;
 }
 
@@ -13,7 +13,7 @@ body {
 }
 
 footer {
-  color: #2b3038;
+  color: #ffffff;
   background-attachment: fixed;
   background-color: #222;
   background-image: url(https://s7.postimg.org/uyf0oioaz/footer-bg.png);
@@ -120,6 +120,21 @@ footer .input-group-addon {
   justify-content: center;
 }
 
+#home-game .home-card {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+#home-game .home-card img {
+  display: block;
+  margin: 0 auto 20px auto;
+}
+#home-game .home-card h2 {
+  font-size: 30px;
+}
+#home-game .home-card p {
+  margin-top: 20px;
+}
+
 #contact-info span {
   margin: 15px;
   margin-bottom: 300px;
@@ -210,7 +225,7 @@ p {
 
 .npcard {
   border: 0;
-  background: #2b3038;
+  background: #ffffff;
   color: #75bce5;
   box-shadow: 6px 6px 16px 0px rgba(30, 35, 43, 0.8), -6px -6px 16px 0px rgba(43, 48, 56, 0.8), inset 0px 0px 0px 0px #1e232b, inset 0px 0px 0px 0px rgba(43, 48, 56, 0.8);
   border-radius: 5px;
@@ -219,6 +234,15 @@ p {
 }
 .npcard:hover {
   box-shadow: 0px 0px 0px 0px rgba(30, 35, 43, 0.8), 0px 0px 0px 0px rgba(43, 48, 56, 0.8), inset 6px 6px 16px 0px rgba(30, 35, 43, 0.8), inset -6px -6px 16px 0px rgba(43, 48, 56, 0.8);
+}
+
+.scard {
+  border: 0;
+  background: #ffffff;
+  color: #75bce5;
+  box-shadow: 6px 6px 16px 0px #dde4ef, -6px -6px 16px 0px #fff, inset 0px 0px 0px 0px #dde4ef, inset 0px 0px 0px 0px #fff;
+  border-radius: 5px;
+  padding: 0.4rem 1rem;
 }
 
 #contact-form {

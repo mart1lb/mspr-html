@@ -1,13 +1,13 @@
 <?php include_once 'includes/header.php'; ?>
 
-    <section id="page-title" class="py-3 text-light">
+    <section id="page-title" class="py-5 text-light">
         <div class="container mt-5">
             <h1><strong>Contact</strong></h1>
         </div>
     </section>
 
     <section id="contact-info" class="py-3 text-light">
-        <div class="container p-5 npcard">
+        <div class="container p-5 scard">
             <!-- Example row of columns -->
             <div class="row">
                 <div class="col-md-4">
@@ -27,7 +27,7 @@
     </section>
 
     <section id="contact-form">
-        <div class="container p-5 npcard">
+        <div class="container p-5 scard">
             <form action="" method="POST">
 
                 <div class="form-row">

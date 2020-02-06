@@ -30,7 +30,7 @@
             <div class="card-deck mb-3 text-center">
                 <div class="card  npcard mb-4 box-shadow">
                     <div class="card-header">
-                        <h2 class="my-0 font-weight-normal">Fornite</h2>
+                        <h2 class="my-0 font-weight-normal">Fortnite</h2>
                     </div>
                     <div class="card-body">
                         <h3 class="card-title pricing-card-title">10€ <small class="text-muted">/ Pers</small></h3>

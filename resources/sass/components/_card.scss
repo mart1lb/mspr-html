@@ -11,3 +11,13 @@
     box-shadow: $shadow-dark-hover;
   }
 }
+
+.scard {
+  border: 0;
+  background: $bg-body;
+  color: #75bce5;
+  box-shadow: $shadow-light;
+  border-radius: 5px;
+  padding: .4rem 1rem;
+}
+

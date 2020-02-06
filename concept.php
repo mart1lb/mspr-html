@@ -1,58 +1,35 @@
 <?php include_once 'includes/header.php'; ?>
 
-    <div class="container">
-        <h1><strong>Le concept</strong></h1>
-    </div>
 
-  <div class="container">
-    <div class="btn-group" role="group" aria-label="Basic example">
-        <button type="button" class="btn btn-secondary"> <a href="#sec1">Le Bar</a> </button>
-        <button type="button" href="#sec2" class="btn btn-secondary"><a href="#sec2">Salle détente</a> </button>
-        <button type="button" href="#sec3" class="btn btn-secondary"><a href="#sec3">Salle Gaming</a> </button>
-        <button type="button" href="#sec4" class="btn btn-secondary"><a href="#sec4">Salle Tournament</a> </button>
-    </div>
-  </div>
-
-<section id="sec1" class="container">
-    <div class="npcard "
-        <div class="card">
-            <img src="public/images/bar/" class="card-img-top" alt="salle bar">
-            <div class="card-body ">
-                <h5 class="card-title">Le bar</h5>
-                <p class="card-text">Notre est bar à pour concept un e-sport, c’est à dire un bar comme les autres ou vous pouvez vous
-                    posez, se détendre, boire un verre, être avec ses amis mais aussi s’amuser. Dans une ambiance
-                    rétro gaming.</p>
-                <p class="card-text"><small class="text-muted">dernière mise à jour, il y a 3 min</small></p>
-            </div>
+<div class="container py-5">
+    <div class="jumbotron p-4 p-md-5 text-white rounded bg-dark">
+        <div class="col-md-6 px-0">
+            <h1 class="display-4 font-italic">Title of a longer featured blog post</h1>
+            <p class="lead my-3">Multiple lines of text that form the lede, informing new readers quickly and efficiently about what’s most interesting in this post’s contents.</p>
+            <p class="lead mb-0"><a href="#" class="text-white font-weight-bold">Continue reading...</a></p>
         </div>
     </div>
-</section>
-
-<section id="sec2">
-    <div class="container">
-       <div class="card npcard row no-gutters "
-            <h2 class="card-title">Le bar</h2>
-            <p class="card-text">Notre est bar à pour concept un e-sport, c’est à dire un bar comme les autres ou vous pouvez vous
-                posez, se détendre, boire un verre, être avec ses amis mais aussi s’amuser. Dans une ambiance
-                rétro gaming.</p>
-            <hr class="my-4">
-            <img src="public/images/bar/terrasse.jpeg" alt="salle bar " title="salle de bar">
-       </div>
-    </div>
-</section>
-
-<section >
-<div class="container">
-    <div class="card npcard row no-gutters "
-    <h2 id="sec3" class="card-title">Le bar</h2>
-    <p class="card-text">Notre est bar à pour concept un e-sport, c’est à dire un bar comme les autres ou vous pouvez vous
-        posez, se détendre, boire un verre, être avec ses amis mais aussi s’amuser. Dans une ambiance
-        rétro gaming.</p>
-    <hr class="my-4">
-    <img src="public/images/bar/terrasse.jpeg" alt="salle bar " title="salle de bar">
 </div>
-</section>
 
+<div class="container">
+    <div class="blog-post">
+        <h2 class="blog-post-title">Sample blog post</h2>
+        <p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
+
+        <p>This blog post shows a few different types of content that’s supported and styled with Bootstrap. Basic typography, images, and code are all supported.</p>
+        <hr>
+        <p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
+        <blockquote>
+            <p>Curabitur blandit tempus porttitor. <strong>Nullam quis risus eget urna mollis</strong> ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+        </blockquote>
+        <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+        <h2>Heading</h2>
+        <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+        <h3>Sub-heading</h3>
+        <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+        <pre><code>Example code block</code></pre>
+    </div>
+</div>
 <!--
 <section>
     <div class="container">
@@ -90,12 +67,6 @@
 
 
 
-
-Une deuxième salle pour les geek, nos clients qui aiment joue seul ou avec d’autres personnes pour redécouvrir les joie des jeux rétro de l’ancienne époque. Plongez vous dans un autre univers qui vous changez de votre quotidien.
-
-
-
-Pour les gamers qui aiment jouer en lan, affronter ses adversaires en équipe ou en solo nous avons une salle mis à votre disposition avec une 20 de PC et un écran géant au fond de la salle qui retransmet les scores ou les parties qui sont en train d’être jouer
 
 
 

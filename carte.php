@@ -16,7 +16,7 @@
 <section>
 <div class="container mb-5">
     <div class="card-deck">
-        <div class="card npcard">
+        <div class="card scard">
             <img class="card-img-top" src="public/images/carte/borabora.png" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Bora-bora</h5>
