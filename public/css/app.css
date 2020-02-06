@@ -200,14 +200,16 @@ p {
   height: auto;
   width: 100%;
 }
-.arcade .machine img {
+
+.machine img {
   height: auto;
   width: 100%;
 }
-.arcade #gameboy-jumbotron {
+
+#gameboy-jumbotron {
   margin-top: 100px;
 }
-.arcade #gameboy-jumbotron h2 {
+#gameboy-jumbotron h2 {
   color: #034ABC;
   font-size: 80px;
   text-align: center;
@@ -215,12 +217,22 @@ p {
   font-family: "Muli", sans-serif;
   font-family: "Orbitron", sans-serif;
 }
-.arcade #gameboy-jumbotron p {
+#gameboy-jumbotron p {
   margin-top: 75px;
   color: #cccccc;
   font-family: "American Typewriter";
   margin-botton: 300px;
   font-size: 20px;
+}
+
+#conceptheader {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  object-fit: cover;
 }
 
 .npcard {
@@ -233,7 +245,7 @@ p {
   transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 }
 .npcard:hover {
-  box-shadow: 0px 0px 0px 0px rgba(30, 35, 43, 0.8), 0px 0px 0px 0px rgba(43, 48, 56, 0.8), inset 6px 6px 16px 0px rgba(30, 35, 43, 0.8), inset -6px -6px 16px 0px rgba(43, 48, 56, 0.8);
+  box-shadow: 0px 0px 0px 0px #dde4ef, 0px 0px 0px 0px #fff, inset 6px 6px 16px 0px #dde4ef, inset -6px -6px 16px 0px #fff;
 }
 
 .scard {

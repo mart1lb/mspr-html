@@ -54,26 +54,6 @@
             </div><!-- /.row -->
     </section>
 
-        <!-- Three columns of text below the carousel -->
-        <div class="row">
-            <div class="col-lg-4">
-                <img class="rounded" src="public/images/homepage/mannette.png" alt="Generic placeholder image" width="140" height="140">
-                <h3>Du Gaming!</h3>
-                <p>Game club est un bar e-sport, c'est à dire un lieu qui regroupe différents jeux rétro que vos grands-parents ou parents ont connu dans leur jeunesse.</p>
-                <p><a class="btn btn-secondary" href="#" role="button">Jeux</a></p>
-            </div><!-- /.col-lg-4 -->
-            <div class="col-lg-4">
-                <img class="rounded" src="public/images/homepage/beer.png" alt="Generic placeholder image" width="140" height="140">
-                <h3>Des Boissons!</h3>
-                <p>Si vous cherchez un endroit pour boire un coup avec une carte variée et pas trop cher, avec des cocktails et bières pour tout les coups à petits prix</p>
-                <p><a class="btn btn-secondary" href="#" role="button">Carte</a></p>
-            </div><!-- /.col-lg-4 -->
-            <div class="col-lg-4">
-                <img class="rounded-circle" src="public/images/homepage/friends.png" alt="Generic placeholder image" width="140" height="140">
-                <h3>Des Potes!</h3>
-                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                <p><a class="btn btn-secondary" href="#" role="button">Evénement</a></p>
-            </div><!-- /.col-lg-4 -->
-        </div><!-- /.row -->
+
 
 <?php include_once 'includes/footer.php'; ?>
