@@ -54,34 +54,34 @@ p {
     height: auto;
     width: 100%;
   }
+}
 
-  .machine {
-    img {
-      height: auto;
-      width: 100%;
-    }
+.machine {
+  img {
+    height: auto;
+    width: 100%;
+  }
+}
+
+#gameboy-jumbotron {
+  margin-top: 100px;
+
+  h2 {
+    color: #034ABC;
+    font-size: 80px;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Muli', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+
   }
 
-  #gameboy-jumbotron {
-    margin-top: 100px;
-
-    h2 {
-      color: #034ABC;
-      font-size: 80px;
-      text-align: center;
-      justify-content: center;
-      font-family: 'Muli', sans-serif;
-      font-family: 'Orbitron', sans-serif;
-
-    }
-
-    p {
-      margin-top: 75px;
-      color: #cccccc;
-      font-family: "American Typewriter";
-      margin-botton: 300px;
-      font-size: 20px;
-    }
+  p {
+    margin-top: 75px;
+    color: #cccccc;
+    font-family: "American Typewriter";
+    margin-botton: 300px;
+    font-size: 20px;
   }
 }
 

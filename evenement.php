@@ -13,6 +13,7 @@
                 <div class="card-header">
                     <h2 class="my-0 font-weight-normal">Leagues of Legends Tournament</h2>
                 </div>
+                <p>20 Juin</p>
                 <div class="card-body">
                     <h3 class="card-title pricing-card-title">5€ <small class="text-muted">/ Pers</small></h3>
                     <ul class="list-unstyled mt-3 mb-4">
@@ -32,6 +33,7 @@
                     <div class="card-header">
                         <h2 class="my-0 font-weight-normal">Fortnite</h2>
                     </div>
+                    <p>10 Juillet</p>
                     <div class="card-body">
                         <h3 class="card-title pricing-card-title">10€ <small class="text-muted">/ Pers</small></h3>
                         <ul class="list-unstyled mt-3 mb-4">
@@ -52,6 +54,7 @@
                     <div class="card-header">
                         <h2 class="my-0 font-weight-normal">FIFA</h2>
                     </div>
+                    <p>27 Aout</p>
                     <div class="card-body">
                         <h3 class="card-title pricing-card-title">5€ <small class="text-muted">/ Pers</small></h3>
                         <ul class="list-unstyled mt-3 mb-4">
