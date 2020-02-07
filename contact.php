@@ -1,7 +1,7 @@
 <?php include_once 'includes/header.php'; ?>
 
     <section id="page-title" class="py-5 text-light">
-        <div class="container mt-5">
+        <div class="container">
             <h1><strong>Contact</strong></h1>
         </div>
     </section>

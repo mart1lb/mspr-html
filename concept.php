@@ -13,20 +13,18 @@
 </div>
 </section>
 
-<div class="container" id="concept">
+<div class="container pt-5" id="concept">
     <div class="blog-post">
 
         <p>Bienvenue sur notre site ou vous retrouverez toute les informations du bar e-sport et de nos différents événements au cours de l'année.</p>
         <hr>
         <p>Notre concept vient d'une envie et d'une passion pour les jeux vidéos rétro ( les ancêtres du jeux ) et de mélanger
             le monde de la nuit, c'est à dire faire oublier aux étudiants ou aux adultes les dur semaines d'examens, de cours,
-            rofessionnelles en retournant en enfance. Donc nous avons GAMING pour les gamers qui aiment jouer en lan,
+            rofessionnelles en retournant en enfance. Donc nous avons une salle gaming pour les gamers qui aiment jouer en lan,
             affronter ses adversaires en équipe ou en solo nous
             avons une salle mis à votre disposition avec une 20 de PC et un écran géant au fond de la salle
             qui retransmet les scores ou les parties qui sont en train d’être jouer..</p>
-        <blockquote>
-            <p>Un bar est un établissement où<strong> l'on sert principalement des boissons alcoolisées.</strong> Il est proche du café.</p>
-        </blockquote>
+
 
         <h2>Partie bar</h2>
         <p>Nous avons une première salle, où vous retrouverez le bar ( cocktails, boissons ect , des tables,
