@@ -3,11 +3,24 @@
   background-size: cover;
   width: 100%;
   background-repeat: no-repeat;
-  min-height: 300px;
+  min-height: 350px;
 }
 
 #card{
   .card-img-top {
     padding-bottom: 100px;
+  }
+}
+
+#jumbotron {
+
+p {
+  font-size: xx-large;
+  font-family: "Economica", sans-serif;
+}
+  h2 {
+    font-size: 3rem;
+    padding-top: 30px;
+    font-family: "Orbitron", sans-serif;
   }
 }

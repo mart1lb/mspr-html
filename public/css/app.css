@@ -136,14 +136,26 @@ footer .input-group-addon {
   font-family: "Economica", sans-serif;
 }
 
+#video {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-content: center;
+  margin-bottom: 100px;
+}
+
 #page-title h1 {
   text-align: center;
   justify-content: center;
   color: #00FF99;
   margin-top: 100px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   font-size: 50px;
+<<<<<<< HEAD
   font-family: Orbitron;
+=======
+  font-family: "Orbitron", sans-serif;
+>>>>>>> master
 }
 
 #contact-info .contact-picto {
@@ -155,8 +167,12 @@ footer .input-group-addon {
   justify-content: center;
   align-items: center;
   align-content: center;
+<<<<<<< HEAD
   margin-bottom: 100px;
   font-family: "Economica", sans-serif;
+=======
+  margin-bottom: 25px;
+>>>>>>> master
 }
 #contact-info .contact-picto i {
   color: #fff;
@@ -306,6 +322,10 @@ footer .input-group-addon {
   margin-top: 40px;
 }
 
+#conceptheader {
+  min-height: 325px;
+}
+
 #concept {
   font-family: "Economica", sans-serif;
   font-size: 20px;
@@ -333,11 +353,21 @@ footer .input-group-addon {
   background-size: cover;
   width: 100%;
   background-repeat: no-repeat;
-  min-height: 300px;
+  min-height: 350px;
 }
 
 #card .card-img-top {
   padding-bottom: 100px;
+}
+
+#jumbotron p {
+  font-size: xx-large;
+  font-family: "Economica", sans-serif;
+}
+#jumbotron h2 {
+  font-size: 3rem;
+  padding-top: 30px;
+  font-family: "Orbitron", sans-serif;
 }
 
 .npcard {
