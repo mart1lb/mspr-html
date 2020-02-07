@@ -16,7 +16,7 @@
                         <h2>Du Gaming!</h2>
                         <p>Les bars proposant de jouer à des jeux vidéos autour d’une bière ou deux ne sont pas si nouveaux,
                             nous en convenons !Leur origine est aussi motivée par un bouleversement en termes de consommation :
-                            l’appétence exubérante pour le domaine du rétro-gaming.</p>
+                            l’appétence exubérante pour le domaine du rétro</p>
                         <div class="text-center">
                             <a class="btn btn-secondary" href="jeux.php" role="button">Les jeux »</a>
                         </div>
@@ -36,7 +36,7 @@
                     </div>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-xl-4">
-                    <div class="npcard      home-card">
+                    <div class="npcard home-card">
                         <img class="rounded-circle" src="public/images/homepage/friends.png"
                              alt="Generic placeholder image"
                              width="140" height="140">

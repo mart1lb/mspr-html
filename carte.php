@@ -1,10 +1,18 @@
 <?php include_once 'includes/header.php'; ?>
 
-    <section id="page-title" class="py-5 text-light">
-        <div class="container mt-5">
-            <h1><strong>La carte</strong></h1>
+    <section id="jumbotron" class="pt-5">
+        <div class="container pt-5">
+            <div id="bgcarte" class="jumbotron p-3 p-md-5 text-white rounded" style="background-image: url(public/images/carte/headercocktail.png);)">
+                <div class="col-md-6 px-0">
+
+                        <h1 class="display-4 font-italic">La carte des Cocktails</h1>
+                        <p class="lead my-3 text-white">Dégustez des cocktails atypiques créées par nos soins ! </p>
+
+                </div>
+            </div>
         </div>
     </section>
+
 
     <section id="jumbotron">
         <div class="container mb-5">

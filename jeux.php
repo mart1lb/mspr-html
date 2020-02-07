@@ -7,8 +7,8 @@
     </section>
 
     <section id="game-jumbotron">
-        <div class="container pt-5 md-5">
-            <h2 class="pt-5">Les consoles</h2>
+        <div class="container  md-5">
+            <h2 >Les consoles</h2>
             <p>Nous avons mis à votre disposition 4 consoles de jeux de différentes époques pour que vous découvriez le
                 plaisir des anciennes consoles de jeux: La première console que nous avons à mis à votre disposition est
                 la Super Nintendo sortie dans les années 90 par les Japonais, mais aussi La super NES 2 qui est la
