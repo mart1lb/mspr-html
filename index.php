@@ -53,8 +53,8 @@
     </section>
 
 <section>
-    <div id="video" class="container">
-        <iframe width="100%" height="720" src="https://www.youtube.com/embed/1dDeonJ-vNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="video" class="scard p-5">
+        <iframe   width="100%" height="720" src="https://www.youtube.com/embed/1dDeonJ-vNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </section>
 

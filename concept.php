@@ -26,14 +26,14 @@
             qui retransmet les scores ou les parties qui sont en train d’être jouer..</p>
 
 
-        <h2>Partie bar</h2>
+        <h2 class="scard">Partie bar</h2>
         <p>Nous avons une première salle, où vous retrouverez le bar ( cocktails, boissons ect , des tables,
             tabourets, chaises et canapés avec de la musique en fond un endroit conviviale. Et attention ! Allez-y sans préjugés !
             Ne vous imaginez pas que vous allez tout simplement jouer à “La bonne Paye” ou à “Docteur Maboule” autour d’une bière.
             Il y a des jeux bien plus “modernes” et immersifs qui vous donneront un réel plaisir à lâcher un peu la matrice virtuelle que vous propose les jeux vidéo. Que le bar à jeux propose uniquement une expérience physique ou à l’inverse uniquement virtuelle, leur propagation dans toute la France est aussi expliqué par le fait que le jeu en tant que tel n’est plus associé au monde de l’enfance. S’il se croyait isolé dans sa passion, rassurez-le, il est loin d’être tout seul ! Il fait partie d’une tendance qui va plus plus loin qu’une hype éphémère. C’est un véritable phénomène culturel trouvant son origine dans une volonté de renouer avec les sensations des premières expériences en termes de jeux vidéo.
 
             Cet attrait pour la nostalgie ne se limite pas bien sûr au monde vidéoludique, on le trouve aussi par exemple chez nos amis Hipsters qui se sont dernièrement offert une platine vinyle pour ne pas suivre “la masse de moutons abreuvés par un capitalisme sauvage”.</p>
-        <h3>Salle de jeux</h3>
+        <h3 class="scard">Salle de jeux</h3>
         <div id="text">
         <p>Une deuxième salle pour les geek, nos clients qui aiment joue seul ou avec d’autres personnes
             pour redécouvrir les joie des jeux rétro de l’ancienne époque. Plongez vous dans un autre

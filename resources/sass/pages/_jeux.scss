@@ -1,6 +1,9 @@
 #game-jumbotron{
   margin-top: 70px;
 
+  .card-img-top {
+  margin: 20px;
+}
   h2 {
     color: #0141a2;
     font-size: 80px;
@@ -29,6 +32,10 @@
 #borne-jumbotron {
   margin-top: 150px;
 
+  img {
+    max-height: 600px;
+  }
+
   h2 {
     color: #034ABC;
     font-size: 80px;
@@ -53,20 +60,6 @@
     margin-bottom: 90px;
   }
 }
-  .arcade {
-    img {
-      height: auto;
-      width: 100%;
-      max-height: 200px;
-    }
-  }
-
-  .machine {
-    img {
-      height: auto;
-      width: 100%;
-    }
-  }
 
   #gameboy-jumbotron {
     margin-top: 90px;

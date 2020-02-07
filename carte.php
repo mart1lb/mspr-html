@@ -85,7 +85,7 @@
                     </div>
                 </div>
                 <div class="card scard">
-                    <img class="card-img-top" src="public/images/carte/Tequilalime.png" alt="Card image cap">
+                    <img class="card-img-top" src="public/images/carte/TequilaLime.png" alt="Card image cap">
                     <div class="card-body">
                         <h4 class="card-title">Tequila Lime</h4>
                         <p class="card-text">Composition: Limonade, vin mousseux, Sirop d'orange, Sucre</p>
