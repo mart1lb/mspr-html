@@ -203,7 +203,7 @@ footer .input-group-addon {
   text-align: center;
   justify-content: center;
   font-family: "Orbitron", sans-serif;
-  padding-bottom: 120px;
+  padding-bottom: 200px;
 }
 #borne-jumbotron p {
   color: #111111;
@@ -212,6 +212,9 @@ footer .input-group-addon {
   font-size: 20px;
 }
 #borne-jumbotron .card-deck {
+  margin-bottom: 90px;
+  margin-top: 200px;
+  padding-bottom: 120px;
   margin-top: 80px;
   margin-bottom: 90px;
 }
