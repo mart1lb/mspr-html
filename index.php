@@ -27,7 +27,7 @@
                         <img class="rounded" src="public/images/homepage/beer.png" alt="Generic placeholder image"
                              width="140" height="140">
                         <h2>Des Boissons!</h2>
-                        <p>DLes barathons, au nombre de verres incalculable sont passés de mode… Mettez de côté votrebonne
+                        <p>Les barathons, au nombre de verres incalculable sont passés de mode… Mettez de côté votrebonne
                             descente légendaire,bientôt, pour s’imposer dans ces tavernes nocturnes, vous ne pourrez compter
                             que sur vos “skills in video games” !</p>
                         <div class="text-center">
@@ -51,7 +51,6 @@
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
     </section>
-
 
 
 <?php include_once 'includes/footer.php'; ?>

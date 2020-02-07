@@ -129,9 +129,11 @@ footer .input-group-addon {
 }
 #home-game .home-card h2 {
   font-size: 30px;
+  font-family: Orbitron;
 }
 #home-game .home-card p {
   margin-top: 20px;
+  font-family: "Economica", sans-serif;
 }
 
 #page-title h1 {
@@ -190,7 +192,7 @@ footer .input-group-addon {
   margin-top: 100px;
 }
 #game-jumbotron .card-deck {
-  margin-top: 150px;
+  margin-top: 100px;
 }
 
 #borne-jumbotron {
@@ -202,7 +204,7 @@ footer .input-group-addon {
   text-align: center;
   justify-content: center;
   font-family: "Orbitron", sans-serif;
-  padding-bottom: 200px;
+  padding-bottom: 100px;
 }
 #borne-jumbotron p {
   color: #111111;
@@ -212,8 +214,8 @@ footer .input-group-addon {
 }
 #borne-jumbotron .card-deck {
   margin-bottom: 90px;
-  margin-top: 200px;
-  padding-bottom: 120px;
+  margin-top: 100px;
+  padding-bottom: 70px;
   margin-top: 80px;
   margin-bottom: 90px;
 }
@@ -230,7 +232,7 @@ footer .input-group-addon {
 }
 
 #gameboy-jumbotron {
-  margin-top: 150px;
+  margin-top: 90px;
 }
 #gameboy-jumbotron h2 {
   color: #034ABC;
@@ -259,6 +261,18 @@ footer .input-group-addon {
 }
 
 #date p {
+  color: #3a5a95;
+  font-size: 40px;
+  margin-top: 15px;
+}
+
+#date1 p {
+  color: #3a5a95;
+  font-size: 40px;
+  margin-top: 15px;
+}
+
+#date2 p {
   color: #3a5a95;
   font-size: 40px;
   margin-top: 15px;

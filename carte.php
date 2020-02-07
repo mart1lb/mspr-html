@@ -27,7 +27,7 @@
                 <div class="card scard">
                     <img class="card-img-top" src="public/images/carte/borabora.png" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Bora-bora</h5>
+                        <h4 class="card-title">Bora-bora</h4>
                         <p class="card-text">Composition: Jus d'ananas, Jus de fruit de la passion, Jus de citron,
                             Grenadine</p>
                     </div>
@@ -38,7 +38,7 @@
                 <div class="card scard">
                     <img class="card-img-top" src="public/images/carte/cocktails.png" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Mojito</h5>
+                        <h4 class="card-title">Mojito</h4>
                         <p class="card-text">Composition: Rhum, Jus de citron vert, Menthe, Eau gazeuse, Sucre de
                             canne</p>
                     </div>
@@ -49,7 +49,7 @@
                 <div class="card scard">
                     <img class="card-img-top" src="public/images/carte/Figdark.png" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Figdrak</h5>
+                        <h4 class="card-title">Figdrak</h4>
                         <p class="card-text">Composition: Tequila, Jus d'orange, Sirop de Grenadine</p>
                     </div>
                     <div class="card-footer">
@@ -67,7 +67,7 @@
                 <div class="card scard">
                     <img class="card-img-top" src="public/images/carte/Genieen.png" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Genieen</h5>
+                        <h4 class="card-title">Genieen</h4>
                         <p class="card-text">Composition: Vodka, Curaçao bleu, Jus de citron</p>
                     </div>
                     <div class="card-footer">
@@ -77,7 +77,7 @@
                 <div class="card scard">
                     <img class="card-img-top" src="public/images/carte/Feierabend.png" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Feierabend</h5>
+                        <h4 class="card-title">Feierabend</h4>
                         <p class="card-text">Composition: Rhum brun, Jus de citron, Jus d'orange, Sirop de Grenadine</p>
                     </div>
                     <div class="card-footer">
@@ -87,7 +87,7 @@
                 <div class="card scard">
                     <img class="card-img-top" src="public/images/carte/Tequilalime.png" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Tequila Lime</h5>
+                        <h4 class="card-title">Tequila Lime</h4>
                         <p class="card-text">Composition: Limonade, vin mousseux, Sirop d'orange, Sucre</p>
                     </div>
                     <div class="card-footer">
