@@ -18,8 +18,8 @@
 
     <section>
         <div class="container" id="date">
-            <div class="card-deck mb-3 text-center">
-                <div class="card  npcard mb-4 box-shadow">
+            <div class="card-deck mb-4 text-center">
+                <div class="card  npcard mb-3 box-shadow">
                     <div class="card-header">
                         <h2 class="my-0 font-weight-normal">Leagues of Legends Tournament</h2>
                     </div>
@@ -31,7 +31,9 @@
                             <li>Lot à Gagner pour le top 3</li>
                             <li>Ambiance garantie</li>
                         </ul>
-                        <button type="button" class="btn btn-lg btn-block btn-outline-primary">S'inscrire</button>
+                        <button type="button" class="btn btn-lg btn-block btn-outline-primary">
+                            S'inscrire
+                        </button>
                     </div>
                 </div>
             </div>
